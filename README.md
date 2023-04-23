@@ -5,11 +5,6 @@ A collection of data visualization from official reports from México's governme
 https://www.plataformadetransparencia.org.mx/
 https://datos.gob.mx/
 
-## Index
-
-1
-2
-3
 
 ### Illegal landfills in CDMX
 
@@ -21,6 +16,4 @@ https://datos.cdmx.gob.mx/dataset/tiraderos-clandestinos-al-cierre-de-2017/resou
 
 #### Visualization:
 
-
-
-
+https://public.tableau.com/views/Tiraderos_cdmx_2017/Dashboard1
