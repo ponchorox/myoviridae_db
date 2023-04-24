@@ -32,6 +32,4 @@ https://datos.cdmx.gob.mx/dataset/programa-sembrando-parques/resource/79ea3d41-6
 
 https://public.tableau.com/app/profile/dataviz.mex.poncho/viz/SembrandoParques_cdmx_2021/Dashboard1
 
-![sembrandoparques](https://user-images.githubusercontent.com/48531476/234115604-0ab6e893-c5bd-4659-840f-948b3fb76b00.JPG)
-
 _________________________________________________________________________________________________________________________________________________________
