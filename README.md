@@ -8,7 +8,7 @@ https://datos.gob.mx/
 
 ### Illegal landfills in CDMX
 
-A visualization of illegal landfills in México City using geographical coordinates obtained from datos.cdmx.gob.mx although, according to the data log the file was uploaded in January 23 2021 but the file title states it's from 2017, seeing the size of the data and the expected recurrence of illegal landfills I assume this data is from a single report from 2017 that was later uploaded on 2021.
+A visualization of illegal landfills in México City using geographical coordinates according to the data log the file was uploaded in January 23 2021 but the file title states it's from 2017, seeing the size of the data and the expected recurrence of illegal landfills I assume this data is from a single report from 2017 that was later uploaded on 2021.
 
 #### Data: 
 
@@ -20,6 +20,8 @@ https://public.tableau.com/views/Tiraderos_cdmx_2017/Dashboard1
 _________________________________________________________________________________________________________________________________________________________
 
 ### Planting Parks Program
+
+A visualization of planting efforts from the Planting Parks program.
 
 #### Visualization:
 
