@@ -12,7 +12,7 @@ A visualization of illegal landfills in México City using geographical coordina
 
 #### Data: 
 
-https://datos.cdmx.gob.mx/dataset/tiraderos-clandestinos-al-cierre-de-2017/resource/0b278a0c-3cc9-46a8-a75f-eeb6086b7a58?inner_span=True
+https://datos.cdmx.gob.mx/dataset/tiraderos-clandestinos-al-cierre-de-2017/resource/7041d302-e17b-4137-94a7-383b6b713761?inner_span=True
 
 #### Visualization:
 
