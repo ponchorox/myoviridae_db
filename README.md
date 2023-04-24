@@ -5,6 +5,7 @@ A collection of data visualization from official reports from México's governme
 https://www.plataformadetransparencia.org.mx/
 https://datos.gob.mx/
 
+_________________________________________________________________________________________________________________________________________________________
 
 ### Illegal landfills in CDMX
 
@@ -23,9 +24,12 @@ ________________________________________________________________________________
 
 A visualization of planting efforts from the Planting Parks program.
 
-#### Visualization:
 
 #### Data: 
 https://datos.cdmx.gob.mx/dataset/programa-sembrando-parques/resource/79ea3d41-6bb0-49ba-a4fb-cf6068cb39bb
 
 #### Visualization:
+
+https://public.tableau.com/app/profile/dataviz.mex.poncho/viz/SembrandoParques_cdmx_2021/Dashboard1
+
+_________________________________________________________________________________________________________________________________________________________
